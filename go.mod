@@ -1,5 +1,4 @@
-//md/go.mod
-module github.com/BrownNPC/material-web-components-go-app
+module github.com/BrownNPC/material-web-go-app
 
 go 1.23.3
 
