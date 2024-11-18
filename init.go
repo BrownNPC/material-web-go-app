@@ -4,6 +4,7 @@ import (
 	_ "embed"
 )
 
+// <link href="web/roboto.css" rel="stylesheet">
 var headers string = `
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet">
 <script type="importmap">
